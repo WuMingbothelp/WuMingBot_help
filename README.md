@@ -4,4 +4,5 @@ Welcome to the WuMingBot_help wiki!
 
 请 直 接 点 击 WiKi 查 看 帮 助 文 档 ~
 
- WiKi:https://github.com/WuMingbothelp/WuMingBot_help/wiki
+ WiKi链接如下:
+ https://github.com/WuMingbothelp/WuMingBot_help/wiki
