@@ -6,3 +6,6 @@ Welcome to the WuMingBot_help wiki!
 
  WiKi链接如下:
  https://github.com/WuMingbothelp/WuMingBot_help/wiki
+
+机场/VPN推荐频道：
+ https://t.me/airport_cn
